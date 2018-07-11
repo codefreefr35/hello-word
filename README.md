@@ -1,2 +1,2 @@
 # hello-word
-testing my first reporsitory 
+testing my first repository 
